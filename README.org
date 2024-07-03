@@ -1,0 +1,5 @@
+* Garshuni Malayalam ITRANS input for Emacs
+
+An attempt to make an ITRANS Malayalam layout for the Garshuni Malayalam Script. Feel free to suggest changes and ideas to improve it. The key layout is described in garshuni-mlm.el
+
+ܕܵܝܒܬܝܼܢܘܼ ܣ݈ܬܘܿܬ݈ܪܡ
