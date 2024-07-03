@@ -39,9 +39,7 @@
      ?ܒ ?ܒ ?ܒ ?ࡦ ?ܡ                  ;; LABIALS
      ?ܝ ?ܪ ?ܪ ?ܠ ?ࡨ ?ࡩ ?ܒ          ;; SEMIVOWELS
      ?ܫ ?ࡪ ?ܣ ?ܗ                    ;; SIBILANTS
-     )
-    (;; Misc Symbols
-     nil nil nil nil ?݈ nil nil)))
+     )))
 
 (defvar garshuni-mlm-table
   '(;; for encode/decode
