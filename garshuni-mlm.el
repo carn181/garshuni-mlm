@@ -1,4 +1,4 @@
-;;; garshuni-mlm.el --- Provides Syriac Input Methods  -*- lexical-binding:t -*-
+;;; garshuni-mlm.el --- Provides Garshuni Malayalam ITRANS Input Method  -*- lexical-binding:t -*-
 
 ;; Copyright (C) 2024 carn181
 
